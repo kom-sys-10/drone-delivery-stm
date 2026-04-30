@@ -1,0 +1,4 @@
+paho-mqtt>=1.6.1
+stmpy>=0.7.5
+# sense-hat is installed via apt on Raspberry Pi:
+#   sudo apt install sense-hat
